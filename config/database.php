@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $username = 'ETU003927';
-$password = 'bwWLtSas';
+$password = 'bwWLtSAs';
 $database = 'db_s2_ETU003927';
 
 $mysqli = mysqli_connect($host, $username, $password, $database);
